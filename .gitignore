@@ -1,8 +1,27 @@
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+
+# Build outputs
+dist
+frontend/dist
+backend/dist
+
+# Vite
+.vite
+
+# SQLite database (single file, no env-specific DBs)
+backend/data
 
 # Playwright
-node_modules/
-/test-results/
+playwright-report/
+test-results/
+
+# Playwright
 /playwright-report/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+.playwright-mcp
+.playwright-cli
