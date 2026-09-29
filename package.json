@@ -1,0 +1,23 @@
+{
+  "name": "playwright-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParabankLab/playwright-AI.git"
+  },
+  "keywords": [],
+  "author": "the_stock_mine <info@thestockmine.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ParabankLab/playwright-AI/issues"
+  },
+  "homepage": "https://github.com/ParabankLab/playwright-AI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
